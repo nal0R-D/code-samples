@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Example Application",
+    "home": {
+      "welcome": "Welcome {{name}}"
+    },
+    "entity": {
+      "title": "Entities",
+      "create": {
+        "success": "Entity created successfully"
+      },
+      "update": {
+        "success": "Entity updated successfully"
+      },
+      "delete": {
+        "success": "Entity deleted successfully"
+      }
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "minLength": "Minimum length is {{min}}"
+  }
+}
